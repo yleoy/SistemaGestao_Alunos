@@ -12,6 +12,10 @@ possibilitando a visualização, filtragem e classificação desses dados.
 
 ---
 
+## 🚀 Tecnologias
+
+- Java 24
+
 ## 🚀 Como executar
 
 1. Baixe ou clone este repositório:
