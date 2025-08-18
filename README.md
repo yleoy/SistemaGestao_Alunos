@@ -7,7 +7,8 @@ possibilitando a visualização, filtragem e classificação desses dados.
 
 ## ⚙️ Requisitos
 
-- Necessário instalar a biblioteca externa **JSON-Simple**  
+- Necessário instalar a biblioteca externa **JSON-Simple**
+- Version: json-simple-1.1.1.jar
   👉 [Download aqui](https://code.google.com/archive/p/json-simple/downloads)
 
 ---
