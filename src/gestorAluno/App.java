@@ -21,7 +21,7 @@ public class App {
 			System.out.println("[2] - Listar Alunos Aprovados/Reprovados");
 			System.out.println("[3] - Listar Alunos por Média");
 			System.out.println("[4] - Listar Alunos por faltas");
-			System.out.println("[5] - Encerrar");
+			System.out.println("[0] - Encerrar");
 
 			escolha = teclado.nextInt();
 			teclado.nextLine();
